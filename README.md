@@ -7,5 +7,5 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
       * Report: https://github.com/Ching-Ju-Henry/DSP_Lab_HW0/blob/master/results/index.md
       
 2. Project1 : Image Filtering and Hybrid Images
-      * Code:
-      * Report:
+      * Code: https://github.com/Ching-Ju-Henry/DSP_Lab_HW1
+      * Report: https://github.com/Ching-Ju-Henry/DSP_Lab_HW1/blob/master/results/index.md
