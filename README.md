@@ -10,6 +10,11 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
       * Code: https://github.com/Ching-Ju-Henry/DSP_Lab_HW1
       * Report: https://github.com/Ching-Ju-Henry/DSP_Lab_HW1/blob/master/results/index.md
 
-2. Project2 : Image Filtering and Corner Detection
+3. Project2 : Image Filtering and Corner Detection
       * Code: https://github.com/Ching-Ju-Henry/DSP_Lab_HW2
       * Report: https://github.com/Ching-Ju-Henry/DSP_Lab_HW2/blob/master/results/index.md
+
+4. Project3 : Seam Carving for Content-Aware Image Resizing
+      * Code: https://github.com/Ching-Ju-Henry/DSP_Lab_HW3
+      * Report: https://github.com/Ching-Ju-Henry/DSP_Lab_HW3/blob/master/results/index.md
+      
