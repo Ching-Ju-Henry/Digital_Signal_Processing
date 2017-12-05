@@ -25,3 +25,5 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
 2. Project1 : Mel-Frequency Cepstral Coefficient (MFCC)
       * Code: https://github.com/Ching-Ju-Henry/Mel-Frequency_Cepstral_Coefficient
 
+3. Project2 : Dynamic Time Warping (DTW)
+      * Code: https://github.com/Ching-Ju-Henry/Dynamic_Time_Warping
