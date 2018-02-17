@@ -50,7 +50,7 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
 </table>
 
 ### 4. Project3 : Seam Carving for Content-Aware Image Resizing
-* Goal: Implement seam carving for image resizing
+* Goal: Implement seam carving for image resizing, scaling and cropping
 * Result:
 <table border=1>
 <tr>
@@ -63,11 +63,40 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
 </table>
       
 ## Audio Processing Project
-1. Project0 : Energy-based Voice Activity Detection
-      * Code: https://github.com/Ching-Ju-Henry/Energy-based_Voice_Activity_Detection
+### 1. Project0 : Energy-based Voice Activity Detection
+* Goal: Implement voice detection
+* Result:
+<table border=1>
+<tr>
+<td>
+<img src="./Energy-based Voice Activity Detection/results/my_origin.png" width="45%"/>
+<img src="./Energy-based Voice Activity Detection/results/my_energy.png"  width="45%"/>
+<img src="./Energy-based Voice Activity Detection/results/my_check.png" width="45%"/>
+<img src="./Energy-based Voice Activity Detection/results/my_cut.png" width="45%"/>
+</td>
+</tr>
+</table>
 
-2. Project1 : Mel-Frequency Cepstral Coefficient (MFCC)
-      * Code: https://github.com/Ching-Ju-Henry/Mel-Frequency_Cepstral_Coefficient
+### 2. Project1 : Mel-Frequency Cepstral Coefficient (MFCC)
+* Goal: Implement MFCC as voice feature
+* Result:
+<table border=1>
+<tr>
+<td>
+<img src="./Mel-Frequency Cepstral Coefficient/results/pre.png" width="48%"/>
+<img src="/Mel-Frequency Cepstral Coefficient/results/tri.png" width="48%"/>
+<img src="./Mel-Frequency Cepstral Coefficient/results/MFCC.png"  width="48%"/>
+</td>
+</tr>
+</table>
 
-3. Project2 : Dynamic Time Warping (DTW)
-      * Code: https://github.com/Ching-Ju-Henry/Dynamic_Time_Warping
+### 3. Project2 : Dynamic Time Warping (DTW)
+* Goal: Implement DTW to match two voice
+* Result:
+<table border=1>
+<tr>
+<td>
+<img src="./Dynamic Time Warping/results/Figure_2.png" width="100%"/>
+</td>
+</tr>
+</table>
