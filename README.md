@@ -37,7 +37,7 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
 </tr>
 </table>
 
-### 3. Project2 : Image Filtering and Corner Detection
+### 3. Project 2 : Image Filtering and Corner Detection
 * Goal: Implement corner detection
 * Result:
 <table border=1>
@@ -49,7 +49,7 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
 </tr>
 </table>
 
-### 4. Project3 : Seam Carving for Content-Aware Image Resizing
+### 4. Project 3 : Seam Carving for Content-Aware Image Resizing
 * Goal: Implement seam carving for image resizing, scaling and cropping
 * Result:
 <table border=1>
@@ -63,7 +63,7 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
 </table>
       
 ## Audio Processing Project
-### 1. Project0 : Energy-based Voice Activity Detection
+### 1. Project 0 : Energy-based Voice Activity Detection
 * Goal: Implement voice detection
 * Result:
 <table border=1>
@@ -77,7 +77,7 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
 </tr>
 </table>
 
-### 2. Project1 : Mel-Frequency Cepstral Coefficient (MFCC)
+### 2. Project 1 : Mel-Frequency Cepstral Coefficient (MFCC)
 * Goal: Implement MFCC as voice feature
 * Result:
 <table border=1>
@@ -90,7 +90,7 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
 </tr>
 </table>
 
-### 3. Project2 : Dynamic Time Warping (DTW)
+### 3. Project 2 : Dynamic Time Warping (DTW)
 * Goal: Implement DTW to match two voice
 * Result:
 <table border=1>
@@ -100,3 +100,6 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
 </td>
 </tr>
 </table>
+
+### 4. Project 3 : Simple Voice Recoginition
+* Goal: Implement voice recoginition by MFCC and DTW
