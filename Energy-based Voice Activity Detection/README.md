@@ -25,7 +25,7 @@ The goal of this assignment is detection the voice, whether is sound at that tim
 <td>
 <img src="./results/my_origin.png" width="45%"/>
 <img src="./results/my_energy.png"  width="45%"/>
-<img src="/results/my_check.png" width="45%"/>
+<img src="./results/my_check.png" width="45%"/>
 <img src="./results/my_cut.png" width="45%"/>
 </td>
 </tr>
