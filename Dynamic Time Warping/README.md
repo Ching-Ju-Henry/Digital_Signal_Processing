@@ -33,7 +33,7 @@ The goal of this assignment is that finding the similar part of two signal, then
 <table border=1>
 <tr>
 <td>
-<img src="/results/Figure_2.png" width="100%"/>
+<img src="./results/Figure_2.png" width="100%"/>
 </td>
 </tr>
 
