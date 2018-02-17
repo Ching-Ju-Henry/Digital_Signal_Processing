@@ -22,7 +22,7 @@ The goal of this assignment is that finding the singal feature from input and re
 <tr>
 <td>
 <img src="./results/pre.png" width="48%"/>
-<img src="/results/tri.png" width="48%"/>
+<img src="./results/tri.png" width="48%"/>
 <img src="./results/MFCC.png"  width="48%"/>
 </td>
 </tr>
