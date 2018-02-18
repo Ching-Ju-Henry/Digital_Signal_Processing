@@ -1,4 +1,4 @@
-# Digital Signal Processing Lab
+# Digital Signal Processing
 There are some projects in digital signal processing lab  in National Tsing Hua University. 2017/09-2018/01
 
 ## Image Processing Project
@@ -83,9 +83,9 @@ There are some projects in digital signal processing lab  in National Tsing Hua 
 <table border=1>
 <tr>
 <td>
-<img src="./Mel-Frequency Cepstral Coefficient/results/pre.png" width="48%"/>
-<img src="/Mel-Frequency Cepstral Coefficient/results/tri.png" width="48%"/>
-<img src="./Mel-Frequency Cepstral Coefficient/results/MFCC.png"  width="48%"/>
+<img src="./Mel-Frequency Cepstral Coefficient/results/pre.png" width="32%"/>
+<img src="/Mel-Frequency Cepstral Coefficient/results/tri.png" width="32%"/>
+<img src="./Mel-Frequency Cepstral Coefficient/results/MFCC.png"  width="32%"/>
 </td>
 </tr>
 </table>
