@@ -1,5 +1,5 @@
 # Digital Signal Processing
-There are some projects in digital signal processing lab  in National Tsing Hua University. 2017/09-2018/01
+There are some projects of digital signal processing, including image and audio processing.
 
 ## Image Processing Project
 ### 1. Project 0 : Pixel array manipulation
